@@ -1,0 +1,2 @@
+# LocalAI
+My LocalAI setup
