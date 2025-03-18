@@ -32,3 +32,11 @@ docker run --name comfyui --detach --restart unless-stopped --volume "<path/to/m
 My OpenWebUI settings to connect ComfyUI:
 ![Settings 1](openwebui/image_settings_1.png)
 ![Settings 2](openwebui/image_settings_2.png)
+
+# LLMs
+
+Analysis of Chinese LLMs: https://huggingface.co/blog/leonardlin/chinese-llm-censorship-analysis
+
+decop Dataset: https://huggingface.co/datasets/augmxnt/deccp
+
+Debiased LLms: https://huggingface.co/cognitivecomputations
